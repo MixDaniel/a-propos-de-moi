@@ -1,0 +1,12 @@
+
+.body{
+  background-color: #dfd9d9;
+  height: auto;
+  box-shadow: 0 15px 25px rgba(80, 79, 79, 0.5);
+  margin: 0;
+  padding: 0;
+}
+.progress{
+  width: 200px;
+}
+
